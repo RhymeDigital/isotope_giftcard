@@ -22,7 +22,7 @@ class PreventMultipleGiftCards extends \Frontend
 	 * Prevent multiple gift cards from being added to the cart because
 	 * of how ProductCollectionItem calculates its price
 	 * 
-	 * Namespace:	Contao
+	 * Namespace:	Isotope
 	 * Class:		IsotopeProductCollection
 	 * Method:		addProduct
 	 * Hook:		$GLOBALS['ISO_HOOKS']['addProductToCollection']
